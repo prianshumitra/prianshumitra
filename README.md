@@ -43,36 +43,7 @@ Building scalable web applications, backend systems, and AI-powered solutions th
 
 ---
 
-## 🚀 Featured Projects
 
-### 📄 AI Resume Analyzer
-An AI-powered resume analysis platform that evaluates resumes and provides ATS-friendly feedback.
-
-**Tech Stack:** Python • FastAPI • AI
-
----
-
-### 🌈 IR Colorization
-A deep learning project focused on converting infrared images into realistic RGB images.
-
-**Tech Stack:** Python • OpenCV • Deep Learning
-
----
-
-### 🌐 FastAPI Social Media API
-A RESTful backend with JWT Authentication, CRUD operations, SQLAlchemy, and PostgreSQL.
-
-**Tech Stack:** FastAPI • PostgreSQL • SQLAlchemy
-
----
-
-### 💼 Personal Portfolio *(Coming Soon)*
-
-A modern portfolio website showcasing my projects, technical skills, and achievements.
-
-**Tech Stack:** React • TypeScript • Tailwind CSS
-
----
 
 ## 📊 GitHub Statistics
 
